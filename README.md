@@ -15,4 +15,5 @@ Made for HackTX 2024.
 
 ## Personal Contribution
 ( I worked in VS Code Live Share, so my contributions aren't credited in the commits :P )
+
 Primarily collaborated to develop the interaction with the MediaPipe Solutions API in Python, working to preprocess the most important hand landmarks, calibrate the positioning, and control the logic of gameplay based on perceived movement.
